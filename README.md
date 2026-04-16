@@ -43,7 +43,7 @@ Biblioteca json (armazenamento dos dados)
 
 Clone o repositório ou baixe os arquivos.
 
-git clone https://github.com/seu-usuario/taskmate.git
+git clone https://github.com/Dkz17k/taskmate.git
 cd taskmate
 
 
